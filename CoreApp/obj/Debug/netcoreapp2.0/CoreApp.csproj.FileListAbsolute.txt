@@ -1,0 +1,10 @@
+C:\Prathamesh\Sample Codes\CoreApp\CoreApp\bin\Debug\netcoreapp2.0\CoreApp.deps.json
+C:\Prathamesh\Sample Codes\CoreApp\CoreApp\bin\Debug\netcoreapp2.0\CoreApp.runtimeconfig.json
+C:\Prathamesh\Sample Codes\CoreApp\CoreApp\bin\Debug\netcoreapp2.0\CoreApp.runtimeconfig.dev.json
+C:\Prathamesh\Sample Codes\CoreApp\CoreApp\bin\Debug\netcoreapp2.0\CoreApp.dll
+C:\Prathamesh\Sample Codes\CoreApp\CoreApp\bin\Debug\netcoreapp2.0\CoreApp.pdb
+C:\Prathamesh\Sample Codes\CoreApp\CoreApp\obj\Debug\netcoreapp2.0\CoreApp.csproj.CoreCompileInputs.cache
+C:\Prathamesh\Sample Codes\CoreApp\CoreApp\obj\Debug\netcoreapp2.0\CoreApp.AssemblyInfoInputs.cache
+C:\Prathamesh\Sample Codes\CoreApp\CoreApp\obj\Debug\netcoreapp2.0\CoreApp.AssemblyInfo.cs
+C:\Prathamesh\Sample Codes\CoreApp\CoreApp\obj\Debug\netcoreapp2.0\CoreApp.dll
+C:\Prathamesh\Sample Codes\CoreApp\CoreApp\obj\Debug\netcoreapp2.0\CoreApp.pdb

@@ -1,0 +1,82 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {},
+    ".NETCoreApp,Version=v2.2/win7-x86": {},
+    ".NETFramework,Version=v4.5": {},
+    ".NETFramework,Version=v4.5/win7-x86": {},
+    ".NETFramework,Version=v4.6": {},
+    ".NETFramework,Version=v4.6/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.2": [],
+    ".NETFramework,Version=v4.5": [],
+    ".NETFramework,Version=v4.6": []
+  },
+  "packageFolders": {
+    "C:\\Users\\bhirudpp\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Prathamesh\\Sample Codes\\CoreApp\\TargetMutipleFrameworks\\TargetMutipleFrameworks.csproj",
+      "projectName": "TargetMutipleFrameworks",
+      "projectPath": "C:\\Prathamesh\\Sample Codes\\CoreApp\\TargetMutipleFrameworks\\TargetMutipleFrameworks.csproj",
+      "packagesPath": "C:\\Users\\bhirudpp\\.nuget\\packages\\",
+      "outputPath": "C:\\Prathamesh\\Sample Codes\\CoreApp\\TargetMutipleFrameworks\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\bhirudpp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net45",
+        "net46",
+        "netcoreapp2.2"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://willisgroup.pkgs.visualstudio.com/_packaging/wtw.coreanalytics/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "projectReferences": {}
+        },
+        "net45": {
+          "projectReferences": {}
+        },
+        "net46": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      },
+      "net45": {},
+      "net46": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}
